@@ -1,2 +1,2 @@
 # Bootcamp
-This repo contains Freightdeck Bootcamp
+This repo contains Freightdeck Bootcamp info
